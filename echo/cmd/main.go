@@ -3,16 +3,12 @@ package main
 import (
 	"fmt"
 	"os"
+	"strings"
 )
 
-// echo2
+// echo3
 func main() {
 
-	s, sep := "", ""
-	for _, arg := range os.Args[0:] {
-		s += sep + arg
-		sep = " "
-	}
-	fmt.Println(s)
-
+	fmt.Println(strings.Join(os.Args[1:], " "))
+	fmt.Println(os.Args[1:])
 }
