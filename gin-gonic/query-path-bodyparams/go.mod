@@ -1,4 +1,4 @@
-module github.com/victoryama/golang-fundamentals/tutorial_1/gin-gonic
+module github.com/victoryama/golang-fundamentals/query-path-bodyparams/gin-gonic
 
 go 1.23.4
 
