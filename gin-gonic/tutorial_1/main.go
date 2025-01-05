@@ -59,6 +59,6 @@ func main() {
 		c.JSON(http.StatusOK, user) //gin converte o user para JSON
 	})
 
-	gRouter.Run(":8081")
+	gRouter.Run(":8081") //passa a porta que se deseja disponibilizar
 
 }
