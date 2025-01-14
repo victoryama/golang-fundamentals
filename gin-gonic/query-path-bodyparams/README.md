@@ -1,4 +1,6 @@
-💻 Golang Studies / gin-gonic / query-path-bodyparams
+💻 Golang Studies
+
+📁 golang-fundamentals / gin-gonic / query-path-bodyparams
 
   Receiving and Validating Data in a GO API
 
