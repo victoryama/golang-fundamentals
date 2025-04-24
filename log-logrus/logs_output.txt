@@ -1,0 +1,5 @@
+2025/04/10 00:23:03 Testing Log
+2025/04/10 00:30:05 Testing Log
+WARINING: 2025/04/10 00:30:05 main.go:27: Testin WarningLogger
+INFO: 2025/04/10 00:30:05 main.go:30: Testin InfoLogger
+ERROR: 2025/04/10 00:30:05 main.go:33: Testing ErrorLogger
